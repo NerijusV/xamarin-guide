@@ -1,0 +1,2 @@
+C:\Users\nerij\Source\Repos\xamarin-guide\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86
+C:\Users\nerij\Source\Repos\xamarin-guide\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral
